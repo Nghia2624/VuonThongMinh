@@ -75,3 +75,6 @@ python app.py
 - 🏫 **Lớp**: CNTT 16-03.
 
 🚀 **Hệ thống vườn thông minh - Tối ưu hoá nông nghiệp với AI & IoT!** 🌾
+## Hình ảnh thực tế 
+!(![vuon](https://github.com/user-attachments/assets/c7d21ed3-61a1-4cad-8167-2b8232886279))
+
