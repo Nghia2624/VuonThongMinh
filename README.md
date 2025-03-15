@@ -76,6 +76,7 @@ python app.py
 
 🚀 **Hệ thống vườn thông minh - Tối ưu hoá nông nghiệp với AI & IoT!** 🌾
 ## Hình ảnh thực tế 
-![vuon](https://github.com/user-attachments/assets/c7d21ed3-61a1-4cad-8167-2b8232886279)
+![mohinh](https://github.com/user-attachments/assets/2b13e464-cbc9-4e0c-93fa-93888907f599)
+
 
 
