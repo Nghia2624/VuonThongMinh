@@ -47,7 +47,7 @@ git clone https://github.com/Nghia2624/VuonThongMinh
 cd VuonThongMinh
 
 # Cài đặt thư viện Python
-pip install ultralytics opencv-python torch torchvision numpy
+pip install opencv-python numpy flask ultralytics requests
 
 # Chạy server
 python app.py
