@@ -36,7 +36,7 @@ Hệ thống vườn thông minh là một giải pháp ứng dụng IoT và tr�
 2. Cài đặt
 
 # Clone repository
-git clone git@github.com:your-repo-url.git
+git clone https://github.com/Nghia2624/VuonThongMinh
 cd VuonThongMinh
 
 # Cài đặt thư viện Python
