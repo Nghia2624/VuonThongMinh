@@ -1,4 +1,4 @@
-## 🌱 Vườn Thông Minh Ứng Dụng AI & IoT
+# 🌱 Vườn Thông Minh Ứng Dụng AI & IoT
 
 
 ## 📌 Giới Thiệu
