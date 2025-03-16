@@ -22,6 +22,8 @@ Hệ thống vườn thông minh là một giải pháp kết hợp IoT và trí
 ---
 ## 🏢 Kiến Trúc Hệ Thống
 
+![kien truc](https://github.com/user-attachments/assets/3c3dcae7-0aba-4c88-bf5d-16d26853a0b4)
+
 ### 1️⃣ Phần Cứng
 - **Cảm biến**: Độ ẩm đất, ánh sáng, cảm biến mưa.
 - **Thiết bị điều khiển**: Arduino Uno, ESP32/ESP8266.
@@ -36,8 +38,6 @@ Hệ thống vườn thông minh là một giải pháp kết hợp IoT và trí
 - 🌍 **Điều khiển từ xa**: Bật/tắt thiết bị qua **app Blynk**.
 - 🔍 **Nhận diện người lạ**: Gửi cảnh báo khi phát hiện xâm nhập.
 - 🌿 **Nhận diện cây trồng**: Phân tích hình ảnh để xác định **thời điểm thu hoạch**.
-  
-![kien truc](https://github.com/user-attachments/assets/3c3dcae7-0aba-4c88-bf5d-16d26853a0b4)
 
 ---
 ## 🚀 Hướng Dẫn Cài Đặt
