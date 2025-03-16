@@ -3,8 +3,8 @@
 <div align="center">
 
 <p align="center">
-  <img src="![logoDaiNam](https://github.com/user-attachments/assets/4ffaf77f-762d-454d-9e2c-0602e60050bc)" alt="DaiNam University Logo" width="200"/>
-  <img src="![LogoAIoTLab](https://github.com/user-attachments/assets/9da8ff41-7908-439e-8c0a-48c65c512ae3)" alt="AIoTLab Logo" width="170"/>
+  <img src="https://github.com/Nghia2624/VuonThongMinh/blob/main/LogoAIoTLab.png" alt="DaiNam University Logo" width="200"/>
+  <img src="https://github.com/Nghia2624/VuonThongMinh/blob/main/logoDaiNam.png" alt="AIoTLab Logo" width="170"/>
 </p>
 
 [![Made by AIoTLab](https://img.shields.io/badge/Made%20by%20AIoTLab-blue?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
