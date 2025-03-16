@@ -84,7 +84,7 @@ python app.py
 ---
 ## poster 
 
-![Poster](https://github.com/user-attachments/assets/9614b28c-4875-4055-8233-14b3b767ed4c)
+![Poster_1](https://github.com/user-attachments/assets/1edd0bd9-55fc-478b-9b44-60f52c1ba8ba)
 
 ---
 ## Hình ảnh thực tế 
