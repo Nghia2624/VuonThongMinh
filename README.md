@@ -4,8 +4,11 @@
 Hệ thống vườn thông minh là một giải pháp kết hợp IoT và trí tuệ nhân tạo (AI) để **giám sát và điều khiển tự động môi trường vườn**. Hệ thống giúp:
 
 ✅ Theo dõi **tình trạng đất, ánh sáng, độ ẩm**.
+
 ✅ **Tưới nước tự động**.
+
 ✅ Nhận diện hình ảnh để **phát hiện người lạ** xâm nhập.
+
 ✅ Xác định **thời điểm thu hoạch cây trồng**.
 
 ---
